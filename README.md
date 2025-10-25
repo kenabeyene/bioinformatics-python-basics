@@ -13,3 +13,9 @@ The goal is to build a strong Python foundation while applying programming to bi
 - **Concepts Used:** Loops, conditionals, dictionaries, string operations
 - **Skills Learned:** Input validation, basic bioinformatics calculations, data organization in dictionaries
 - **File Name:** `dna_sequence_analyzer.py`
+
+### 🧩 Project 2: DNA to RNA Transcription
+- **Description:** Validate a DNA sequence and transcribe it to RNA by replacing T with U.
+- **Concepts Used:** Loops, conditionals, string operations, input validation
+- **Skills Learned:** String manipulation, validation of biological sequences
+- **File Name:** `dna_to_rna_transcription.
