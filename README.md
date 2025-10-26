@@ -30,3 +30,22 @@ The goal is to build a strong Python foundation while applying programming to bi
 - **Skills Learned:** Sequence validation, base-pair mapping, function decomposition, clean code structure
 - **File Name:** `complementary_dna_generator.py`
 
+---
+
+### 🧩 Project 4: Reverse DNA Strand Generator
+- **Description:** Validate a DNA sequence and generate its reverse sequence.
+- **Concepts Used:** Loops, conditionals, string operations, slicing
+- **Skills Learned:** Sequence validation, string manipulation, reversing sequences
+- **File Name:** `reverse_dna_generator.py`
+
+
+
+
+
+
+
+
+
+
+
+
