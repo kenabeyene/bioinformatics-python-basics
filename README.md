@@ -28,5 +28,5 @@ The goal is to build a strong Python foundation while applying programming to bi
 - **Description:** Validate a DNA sequence and generate its complementary strand by pairing A↔T and C↔G.
 - **Concepts Used:** Loops, conditionals, string operations, functions
 - **Skills Learned:** Sequence validation, base-pair mapping, function decomposition, clean code structure
-- **File Name:** `complementary_dna_strand_generator.py`
+- **File Name:** `complementary_dna_generator.py`
 
