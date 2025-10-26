@@ -21,3 +21,12 @@ The goal is to build a strong Python foundation while applying programming to bi
 - **Concepts Used:** Loops, conditionals, string operations, input validation
 - **Skills Learned:** String manipulation, validation of biological sequences
 - **File Name:** `dna_to_rna_transcription.py`
+
+---
+
+### 🧩 Project 3: Complementary DNA Strand Generator
+- **Description:** Validate a DNA sequence and generate its complementary strand by pairing A↔T and C↔G.
+- **Concepts Used:** Loops, conditionals, string operations, functions
+- **Skills Learned:** Sequence validation, base-pair mapping, function decomposition, clean code structure
+- **File Name:** `complementary_dna_strand_generator.py`
+
