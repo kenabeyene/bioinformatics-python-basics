@@ -1,7 +1,7 @@
 # 🧬 Bioinformatics Python Basics
 
 Welcome to my **Bioinformatics Python Basics** repository!  
-This repo contains **10 beginner-friendly Python projects** that focus on **bioinformatics concepts**.  
+This repo contains **5 beginner-friendly Python projects** that focus on **bioinformatics concepts**.  
 The goal is to build a strong Python foundation while applying programming to biological data.
 
 ---
@@ -38,14 +38,22 @@ The goal is to build a strong Python foundation while applying programming to bi
 - **Skills Learned:** Sequence validation, string manipulation, reversing sequences
 - **File Name:** `reverse_dna_generator.py`
 
+---
 
+### 🧩 Project 5: DNA Mutation Detector
+- **Description:** Compare two DNA sequences of equal length to detect mutations (differences in nucleotides) and identify their positions.
+- **Concepts Used:** Loops, conditionals, lists, string comparison, and input validation
+- **Skills Learned:** Sequence comparison, mutation detection, and biological data validation
+- **File Name:** `dna_mutation_detector.py`
 
+---
 
+## 📘 Summary
 
+This repository marks the completion of my **Bioinformatics Python Basics** learning phase.  
+Through these projects, I’ve learned how to:
+- Write clean, modular Python code using functions  
+- Apply programming logic to real biological data  
+- Understand how bioinformatics problems can be solved with basic Python  
 
-
-
-
-
-
-
+Next step: Moving on to **Pandas, NumPy, and advanced bioinformatics projects** 🚀
