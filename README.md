@@ -56,4 +56,3 @@ Through these projects, I’ve learned how to:
 - Apply programming logic to real biological data  
 - Understand how bioinformatics problems can be solved with basic Python  
 
-Next step: Moving on to **Pandas, NumPy, and advanced bioinformatics projects** 🚀
